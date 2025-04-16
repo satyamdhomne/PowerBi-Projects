@@ -1,8 +1,8 @@
-# 📊 Sales Dashboard - Power BI
+📊 Sales Dashboard - Power BI
 
 This repository contains a Power BI dashboard project that visualizes and analyzes sales data to provide actionable insights. The dashboard includes key metrics such as total revenue, product performance, regional sales trends, and more.
 
-## 🚀 Features
+🚀 Features
 
 - **Interactive Visuals**: Drill-down and filter capabilities.
 - **KPI Tracking**: Monitor key sales metrics such as revenue, profit, and growth.
@@ -10,13 +10,13 @@ This repository contains a Power BI dashboard project that visualizes and analyz
 - **Time Series Trends**: Month-over-month and year-over-year performance.
 - **Product Insights**: Top-performing products and categories.
 
-## 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Power Query (M Language)
 
-## 🧑‍💼 Use Cases
+🧑‍💼 Use Cases
 
 This dashboard is ideal for:
 - Sales teams needing fast insights
